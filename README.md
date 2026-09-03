@@ -1,7 +1,7 @@
 # 💻 1차과제
  ## Junsang Jo
 -----
-Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.soultech.ac.kr).
+Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://soultech.ac.kr).
 
 My interest incloud
 1. 🤖: **Machine Learning**: Supervised Learning, Reinforcement Learning.
