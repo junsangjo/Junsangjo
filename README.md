@@ -11,9 +11,9 @@ My interest incloud
 I want to become a Machine Learning Engineer. So, for the OSS term project, I plan to solve AI problems by applying mathematical knowledge.
 
 I use with
-*[Linear Algebra]()*
-*[Prob/Stats]()
-*[Calculus]()
-*[Geometry]()
+*[Linear Algebra]()*.
+*[Prob/Stats]()*.
+*[Calculus]()*.
+*[Geometry]()*.
 
 I am always passionate😃. Watch me grow up!
