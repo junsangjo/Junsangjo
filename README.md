@@ -8,8 +8,8 @@ My interest incloud
 2. 💻: **Computer Vision**: Model training, Pattern Recognition.
 3. 👨‍🎓 **mathematics**: I love all of mathematicse.
 
-I want to become a Machine Learning Engineer. So, for the OSS term project, I plan to solve AI problems by applying mathematical knowledge.
-
+I want to become a Machine Learning Engineer.
+So, for the OSS term project, I plan to solve AI problems by applying mathematical knowledge.
 I use with
 *[Linear Algebra]()*.
 *[Prob/Stats]()*.
