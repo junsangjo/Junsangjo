@@ -9,4 +9,4 @@ My interests include
 
 I hope to become an AI programer. So I will study computer engineering and strive to become a talented person.
 
-I am always passionate😃, Let’s study together and get an A+.🥇
+I am always passionate😃, Let’s study hard together and get an A+.🥇
