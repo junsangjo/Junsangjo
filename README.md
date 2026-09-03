@@ -1,13 +1,19 @@
 # 💻 1차과제
  ## Junsang Jo
 -----
-I am Junsang Jo, [Student of Computer science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.soultech.ac.kr).
+Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.soultech.ac.kr).
 
-My interests include
-* 🎸 **play the giutar**: Sometimes I play ballads, pop songs, hip-hop, etc. using the guitar.
-* 🚴 **cycling**: When I feel stressed, I ride a bike to cheer me up.
-* 👨‍🎓 **mathematics**: I spend my time solving calculus problems.
+My interest incloud
+1. 🤖: **Machine Learning**: Supervised Learning, Reinforcement Learning.
+2. 💻: **Computer Vision**: Model training, Pattern Recognition.
+3. 👨‍🎓 **mathematics**: I love all of mathematicse.
 
-I hope to become an AI programer. So I will study computer engineering and strive to become a talented person.
+I want to become a Machine Learning Engineer. So, for the OSS term project, I plan to solve AI problems by applying mathematical knowledge.
 
-I am always passionate😃, Let’s study hard together and get an A+.🥇
+I use with
+*[Linear Algebra]()
+*[Prob/Stats]()
+*[Calculus]()
+*[Geometry]()
+
+I am always passionate😃. Watch me grow up!
