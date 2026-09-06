@@ -1,5 +1,5 @@
 # 💻 1차과제
- ## Junsang Jo
+## Junsang Jo
 -----
 Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
 
