@@ -8,7 +8,7 @@ My interest incloud
 2. 💻 **Computer Vision**: Model training, Pattern Recognition.  
 3. 👨‍🎓 **mathematics**: I love all of mathematicse.
 
-I want to become a Machine Learning Engineer. like [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+My goal is to become a Machine Learning Engineer, and [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) is a inspiration to me.
 
 For the OSS term project, I plan to make machine learning algorithms by applying mathematical knowledge.
 I use with  
