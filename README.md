@@ -9,7 +9,7 @@ My interest incloud
 
 My goal is to become a Machine Learning Engineer, and [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) is an inspiration to me.
 
-For the OSS term project, I plan to develop machine learning algorithms by applying mathematical knowledge.
+For the OSS term project, I plan to develop machine learning algorithms by applying mathematical knowledge.  
 I use with  
 [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)  
 [Prob/Stats](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics)  
