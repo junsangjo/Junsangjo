@@ -1,5 +1,4 @@
-# 💻 1차과제
-## Junsang Jo
+![header](<img width="2040" height="600" alt="junsang_jo_banner" src="https://github.com/user-attachments/assets/becfaeba-2c59-48d2-b7cc-b970274f241a" />)
 -----
 Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
 
