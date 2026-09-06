@@ -1,5 +1,4 @@
-![Junsang Jo Banner](<img width="2040" height="600" alt="junsang_jo_banner" src="https://github.com/user-attachments/assets/febd5d04-0e2a-4f61-80fe-b5145b4c5aa8" />
-)
+![Junsang Jo Banner](junsang_jo_banner.png)
 -----
 Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
 
