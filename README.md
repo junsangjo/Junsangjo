@@ -1,4 +1,4 @@
-![header](img width="2040" height="600" alt="junsang_jo_banner" src="https://github.com/user-attachments/assets/becfaeba-2c59-48d2-b7cc-b970274f241a" /
+![header](<img width="2040" height="600" alt="junsang_jo_banner" src="https://github.com/user-attachments/assets/376658aa-4857-4ace-b8c2-482569f48240" />
 )
 -----
 Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
