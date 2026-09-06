@@ -14,7 +14,7 @@ So, for the OSS term project, I plan to make machine learning algorithms by appl
 I use with
 [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 [Prob/Stats](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics)
-*[Calculus]()*(https://en.wikipedia.org/wiki/Calculus)
-*[Geometry]()*(https://en.wikipedia.org/wiki/Geometry)
+[Calculus](https://en.wikipedia.org/wiki/Calculus)
+[Geometry](https://en.wikipedia.org/wiki/Geometry)
 
 I am always passionate😃. Watch me grow up!
