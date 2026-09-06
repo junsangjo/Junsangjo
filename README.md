@@ -1,6 +1,6 @@
 ![Junsang Jo Banner](junsang_jo_banner.png)
 -----
-Hello, I am Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
+Hello, I'm Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
 
 My interest incloud
 1. 🤖 **Machine Learning**: Supervised Learning, Reinforcement Learning.  
@@ -16,4 +16,4 @@ I use with
 [Calculus](https://en.wikipedia.org/wiki/Calculus)  
 [Geometry](https://en.wikipedia.org/wiki/Geometry)  
 
-I am always passionate😃. Come and study hard!
+I'm always passionate😃. Come and study hard!
