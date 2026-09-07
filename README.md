@@ -1,5 +1,6 @@
 ![Junsang Jo Banner](junsang_jo_banner.png)
-Hello, I'm Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://seoultech.ac.kr).
+Hello, I'm Junsang Jo, a [Student of Computer Science and Engineering](https://computer.seoultech.ac.kr/),
+[SEOULTECH](https://seoultech.ac.kr).
 
 My interests include
 1. 🤖 **Machine Learning**: Supervised Learning, Reinforcement Learning.  
